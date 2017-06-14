@@ -1,4 +1,4 @@
-### Project number 2
+### Problem number 2
 
 
 path = '/Users/elizabethmacdonald/desktop/python/Rosalind-problems/Transcribing_DNA_to_RNA/rosalind_rna.txt'
